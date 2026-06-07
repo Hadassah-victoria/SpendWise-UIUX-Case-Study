@@ -54,23 +54,23 @@ Splash Screen
 
 ### Login Screen
 
-![Login](login.png)
+![Login](login-screen.png)
 
-### Dashboard
+### Home
 
-![Dashboard](dashboard.png)
+![Dashboard](home-screen.png)
 
 ### Add Expense
 
-![Add Expense](add-expense.png)
+![Add Expense](add-expenses-page.png)
 
 ### Analytics
 
-![Analytics](analytics.png)
+![Analytics](analytics-page.png)
 
 ### Profile
 
-![Profile](profile page.png)
+![Profile](profile-page.png)
 
 ---
 
