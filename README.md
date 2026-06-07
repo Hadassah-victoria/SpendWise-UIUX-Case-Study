@@ -58,7 +58,8 @@ Splash Screen
 
 ### Home Dashboard
 
-![Home Dashboard](home%20screen.png,homescreen2.png)
+![Home Dashboard](home%20screen.png)
+![Home Dashboard](homescreen2.png)
 
 ### Add Expense Screen
 
@@ -70,7 +71,8 @@ Splash Screen
 
 ### Profile Screen
 
-![Profile Screen](profile%20page.png,profile2.png)
+![Profile Screen](profile%20page.png)
+![Profile Screen](profile2.png)
 
 
 ## Figma Prototype
