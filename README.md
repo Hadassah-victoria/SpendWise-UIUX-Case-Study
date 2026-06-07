@@ -62,7 +62,7 @@ Splash Screen
 
 ### Add Expense
 
-![Add Expense](add-expenses-page.png)
+![Add Expense](add expenses page.png)
 
 ### Analytics
 
