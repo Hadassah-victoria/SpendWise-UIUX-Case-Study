@@ -50,29 +50,28 @@ Splash Screen
 
 ### Splash Screen
 
-![Splash](opening.png)
+![Splash Screen](opening.png)
 
 ### Login Screen
 
-![Login](login-screen.png)
+![Login Screen](login%20screen.png)
 
-### Home
+### Home Dashboard
 
-![Dashboard](home-screen.png)
+![Home Dashboard](home%20screen.png)
 
-### Add Expense
+### Add Expense Screen
 
-![Add Expense](add expenses page.png)
+![Add Expense Screen](add%20expenses%20page.png)
 
-### Analytics
+### Analytics Screen
 
-![Analytics](analytics-page.png)
+![Analytics Screen](analytics%20page.png)
 
-### Profile
+### Profile Screen
 
-![Profile](profile-page.png)
+![Profile Screen](profile%20page.png)
 
----
 
 ## Figma Prototype
 
